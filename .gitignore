@@ -1,0 +1,19 @@
+# IDE settings
+.idea/
+__pycache__/
+venv/
+.venv/
+
+# Environment files
+.env
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# macOS system files
+.DS_Store
